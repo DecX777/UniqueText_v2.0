@@ -1,0 +1,5 @@
+tk
+googletrans
+clipboard
+pathlib
+configparser
