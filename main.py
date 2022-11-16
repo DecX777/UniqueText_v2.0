@@ -270,7 +270,7 @@ def work(canvas,window,entry_1,entry_2):
     )
 
     button_image_1 = PhotoImage(
-        file=relative_to_assets2("button_1.png"))
+    file=relative_to_assets2("button_1.png"))
     button_1 = Button(
         image=button_image_1,
         borderwidth=0,
@@ -279,8 +279,8 @@ def work(canvas,window,entry_1,entry_2):
         relief="flat"
     )
     button_1.place(
-        x=546.0,
-        y=24.0,
+        x=509.0,
+        y=23.0,
         width=25.0,
         height=25.0
     )
@@ -295,7 +295,7 @@ def work(canvas,window,entry_1,entry_2):
         relief="flat"
     )
     button_2.place(
-        x=509.0,
+        x=546.0,
         y=24.0,
         width=28.0,
         height=27.0
